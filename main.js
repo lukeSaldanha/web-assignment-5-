@@ -1,7 +1,10 @@
-// author: Luke Saldanha
-// Date 2024-04-15
-//name: Assingment 5
-
+/*
+	Name: Luke Saldanha
+  Student Number: 100911001
+	File: INFT 1206 Assignment 5
+	Date: April 15, 2024
+  Description: Troubleshoot the following website so that it includes web accessibility.
+	*/
 
 
 
